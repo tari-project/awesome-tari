@@ -14,4 +14,5 @@ A collection of awesome things regarding the Tari and Minotari networks
 # Example Sites
 * [Metamask Snap for Tari](https://github.com/tari-project/tari-snap)
 * [Tari <> Eth Swap](https://github.com/mrnaveira/tari-atomic-swap) - A full example application for swapping between Tari and Ethereum
+* [MinoTari <> btc Swap](https://github.com/tari-project/tari/blob/development/docs/src/btc_atomic_swap.md) - A full example application for swapping between MinoTari and Bitcoin
 * [https://github.com/tari-project/tari-connector] - A React component for adding Tari to your React site
