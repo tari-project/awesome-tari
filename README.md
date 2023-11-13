@@ -18,5 +18,5 @@ A collection of awesome things regarding the Tari and Minotari networks
 * [https://github.com/tari-project/tari-connector] - A React component for adding Tari to your React site
 
 # Looking for help
-* [XMR Atomic Swaps](https://rfc.tari.com/RFC-0241_AtomicSwapXMR.html) - Swaps with XMR have been described in the RFC (https://rfc.tari.com/RFC-0241_AtomicSwapXMR.html)
+* [XMR Atomic Swaps](https://rfc.tari.com/RFC-0241_AtomicSwapXMR.html) - Swaps with XMR have been described in the [RFC](https://rfc.tari.com/RFC-0241_AtomicSwapXMR.html)
 but have not been implemented yet.
