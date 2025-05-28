@@ -1,5 +1,10 @@
 A collection of awesome things regarding the Tari and Minotari networks
 
+# Tools
+
+* [Address decoder](https://krakaw.github.io/wallet-decoder/)
+* [Tari Tracker](https://taritracker.com)
+
 # Learning
 
 * [RFC](https://rfc.tari.com/) ([source](https://github.com/tari-project/rfcs))
