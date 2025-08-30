@@ -4,6 +4,7 @@ A collection of awesome things regarding the Tari and Minotari networks
 
 * [Address decoder](https://krakaw.github.io/wallet-decoder/)
 * [Tari Tracker](https://taritracker.com)
+* [Tari LMDB Inspector](https://github.com/OIEIEIO/tari-lmdb-inspector)
 
 # Learning
 
